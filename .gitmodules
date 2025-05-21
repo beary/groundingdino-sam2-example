@@ -1,0 +1,3 @@
+[submodule "3rdparty/sam2"]
+	path = 3rdparty/sam2
+	url = https://github.com/facebookresearch/sam2.git
